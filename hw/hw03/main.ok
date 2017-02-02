@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "endpoint": "cal/stat140/sp17",
+  "src": [
+    "submission.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "grading"
+  ]
+}
